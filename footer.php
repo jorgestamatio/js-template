@@ -1,4 +1,3 @@
-
 <!--
 <footer class='footer'>
 	&copy; <?php echo $year; ?> App
@@ -41,3 +40,5 @@
 </div>
 </body>
 </html>
+
+
